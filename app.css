@@ -1,0 +1,40 @@
+td { padding: 50px; }
+.red { background-color: red; }
+.blue { background-color: blue; }
+.green { background-color: green; }
+
+.redBtn {
+  background-color: snow;
+  border-radius: 100px;
+  border-color: #ff5555;
+  border-width: thick;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 12pt;
+  color: #ff5555;
+  padding: 10px 108px;
+}
+
+.blueBtn {
+  background-color: snow;
+  border-radius: 100px;
+  border-color: #5555ff;
+  border-width: thick;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 12pt;
+  color: #5555ff;
+  padding: 10px 108px;
+}
+
+.greenBtn {
+  background-color: snow;
+  border-radius: 100px;
+  border-color: #55ff55;
+  border-width: thick;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 12pt;
+  color: #22ff22;
+  padding: 10px 103px;
+}
